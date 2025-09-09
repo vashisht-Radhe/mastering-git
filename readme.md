@@ -12,7 +12,7 @@ The goal of this project is to create a visually appealing landing page for a ca
 - Attractive hero section with car banner
 - Car details and specifications
 - Interactive navigation bar
-- Contact
+- Contact / booking form
 - Smooth animations and transitions
 
 ---
