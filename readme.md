@@ -1,5 +1,5 @@
-# Hevoo everyone, welcome to by Git guide!
+# Welcome to Git!
 
 - Yo, Johnny here!
-  
-I'm adding this from `feature-branch`
+- This is comming from `dev-adrain`
+- I'm adding this from `feature-branch`
